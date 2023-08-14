@@ -46,7 +46,7 @@ img {
 }
 
 button {
-  cursor: pointer;
+  cursor: grab;
 }
 
 /* CARD SET ----------------------------------------------------- */
@@ -368,7 +368,7 @@ section {
     display: flex;
     align-items: center;
     margin: auto;
-    box-shadow: ;
+    box-shadow:;
   }
 
   .logo {
